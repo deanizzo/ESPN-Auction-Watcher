@@ -3,9 +3,9 @@
 This gets live pick data (player, price, winning owner) printing to your terminal
 as your ESPN auction draft happens.
 
-Because ESPN's API doesn't expose live draft results we have to use the javascript of the ESPN webpage to find live results and manually send them to our server. This is done through two scripts, server.js and watcher.user.js
+Because ESPN's API doesn't expose live draft results we have to use the javascript of the ESPN webpage to find live results and manually send them to our server. This is done through two scripts, server.js and watcher.user.js.
 
-In the case of ESPN changing their webpage (for example UI cahnges), the code may break, so finder.user.js can be used for corrections.
+In the case of ESPN changing their webpage (for example UI changes), the code may break, so finder.user.js can be used for corrections.
 
 ## Step 1 — Start the local server
 
