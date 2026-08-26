@@ -1,0 +1,6 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore VS Code settings folder
+.vscode/
+data.py
