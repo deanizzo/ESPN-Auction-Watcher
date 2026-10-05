@@ -1,0 +1,169 @@
+,Unnamed: 0,Player,Position,Tier,ProjectedAuction$,Auction$,PositionRank,OverallRank,Team,NomOrder,ComboTier,projAuction$Adjusted,diffAdjusted,marketState,rosterFilled
+0,105,Tyreek Hill,WR,3,32,32,13,31,Turnover on Downs,1,3WR,32,0,0.0,1
+1,93,Ja'Marr Chase,WR,1,71,71,1,1,R. Diddy,2,1WR,71,0,0.0,1
+2,99,Nico Collins,WR,2,57,62,7,12,When in Rome Ladds get dome,3,2WR,57,5,5.0,1
+3,95,CeeDee Lamb,WR,1,69,67,3,3,Skittles and Pickles,4,1WR,69,-2,3.0,1
+4,36,Omarion Hampton,RB,5,16,35,17,48,Pollard Greens,5,5RB,16,19,22.0,1
+5,8,Brock Purdy,QB,3,3,4,9,88,Obijan Kenobi,6,3QB,3,1,23.0,1
+6,101,Brian Thomas,WR,2,50,59,9,16,Sweet Prince,7,2WR,50,9,32.0,1
+7,0,Josh Allen,QB,1,44,38,1,20,R. Diddy,8,1QB,44,-6,26.0,2
+8,97,Amon-Ra St. Brown,WR,1,65,62,5,8,Team Dizzo,9,1WR,65,-3,23.0,1
+9,21,Jahmyr Gibbs,RB,1,67,66,2,5,Lamario kart,10,1RB,67,-1,22.0,1
+10,96,Puka Nacua,WR,1,66,63,4,6,CTESPN,11,1WR,66,-3,19.0,1
+11,23,Christian McCaffrey,RB,2,62,60,4,10,Turnover on Downs,12,2RB,62,-2,17.0,2
+12,29,Bucky Irving,RB,3,39,40,10,25,Skittles and Pickles,13,3RB,39,1,18.0,2
+13,20,Bijan Robinson,RB,1,69,72,1,3,Obijan Kenobi,14,1RB,69,3,21.0,2
+14,103,Tee Higgins,WR,3,36,34,11,28,Turnover on Downs,15,3WR,36,-2,19.0,3
+15,22,Saquon Barkley,RB,1,66,66,3,6,Lamario kart,16,1RB,66,0,19.0,2
+16,98,Malik Nabers,WR,1,64,63,6,9,67 Diddy Party FC,17,1WR,64,-1,18.0,1
+17,94,Justin Jefferson,WR,1,70,69,2,2,Hellcat whippers,18,1WR,70,-1,17.0,1
+18,102,Drake London,WR,2,41,55,10,22,Sweet Prince,19,2WR,41,14,31.0,2
+19,30,Kyren Williams,RB,3,37,32,11,26,67 Diddy Party FC,20,3RB,37,-5,26.0,2
+20,100,AJ Brown,WR,2,54,47,8,14,CTESPN,21,2WR,54,-7,19.0,2
+21,3,Jalen Hurts,QB,1,37,32,4,26,CTESPN,22,1QB,37,-5,14.0,3
+22,24,Ashton Jeanty,RB,2,60,54,5,11,Team Dizzo,23,2RB,60,-6,8.0,2
+23,25,De'Von Achane,RB,2,56,53,6,13,Turnover on Downs,24,2RB,56,-3,5.0,4
+24,126,Zay Flowers,WR,5,9,20,33,64,Pollard Greens,25,5WR,9,11,16.0,2
+25,118,Tetairoa McMillan,WR,4,15,15,26,51,Obijan Kenobi,26,4WR,15,0,16.0,3
+26,108,Jaxon Smith-Njigba,WR,3,27,33,16,34,Pollard Greens,27,3WR,27,6,22.0,3
+27,28,Derrick Henry,RB,3,42,34,9,21,Team Dizzo,28,3RB,42,-8,14.0,3
+28,26,Jonathan Taylor,RB,3,46,40,7,18,Hellcat whippers,29,3RB,46,-6,8.0,2
+29,120,Jameson Williams,WR,4,12,10,28,54,Skittles and Pickles,30,4WR,12,-2,6.0,3
+30,77,Brock Bowers,TE,1,52,37,1,15,Team Dizzo,31,1TE,52,-15,-9.0,4
+31,104,Davante Adams,WR,3,34,28,12,30,Obijan Kenobi,32,3WR,34,-6,-15.0,4
+32,117,George Pickens,WR,4,16,15,24,48,Skittles and Pickles,33,4WR,16,-1,-16.0,4
+33,1,Lamar Jackson,QB,1,40,26,2,23,Lamario kart,34,1QB,40,-14,-30.0,3
+34,27,Josh Jacobs,RB,3,45,41,8,19,67 Diddy Party FC,35,3RB,45,-4,-34.0,3
+35,78,Trey McBride,TE,1,47,32,2,17,Pollard Greens,36,1TE,47,-15,-49.0,4
+36,119,Jaylen Waddle,WR,4,14,12,27,52,Skittles and Pickles,37,4WR,14,-2,-51.0,5
+37,79,George Kittle,TE,2,27,27,3,34,Obijan Kenobi,38,2TE,27,0,-51.0,5
+38,106,Ladd McConkey,WR,3,31,40,14,32,When in Rome Ladds get dome,39,3WR,31,9,-42.0,2
+39,32,Kenneth Walker III,RB,4,27,30,13,34,Obijan Kenobi,40,4RB,27,3,-39.0,6
+40,2,Jayden Daniels,QB,1,40,20,2,23,Lamario kart,41,1QB,40,-20,-59.0,4
+41,34,Chase Brown,RB,4,24,35,15,40,When in Rome Ladds get dome,42,4RB,24,11,-48.0,3
+42,107,Terry McLaurin,WR,3,29,19,15,33,R. Diddy,43,3WR,29,-10,-58.0,3
+43,31,James Cook III,RB,4,35,26,12,29,Hellcat whippers,44,4RB,35,-9,-67.0,3
+44,40,Chuba Hubbard,RB,5,11,20,20,58,When in Rome Ladds get dome,45,5RB,11,9,-58.0,4
+45,4,Joe Burrow,QB,2,26,15,5,37,When in Rome Ladds get dome,46,2QB,26,-11,-69.0,5
+46,111,Garrett Wilson,WR,4,21,27,19,43,Skittles and Pickles,47,4WR,21,6,-63.0,6
+47,38,Alvin Kamara,RB,5,12,13,19,54,Hellcat whippers,48,5RB,12,1,-62.0,4
+48,37,James Conner,RB,5,14,23,18,52,R. Diddy,49,5RB,14,9,-53.0,4
+49,48,TreVeyon Henderson,RB,6,4,14,26,80,Obijan Kenobi,50,6RB,4,10,-43.0,7
+50,113,Marvin Harrison,WR,4,19,23,21,45,CTESPN,51,4WR,19,4,-39.0,4
+51,33,Joe Mixon,RB,4,26,6,14,37,Turnover on Downs,52,4RB,26,-20,-59.0,5
+52,35,Breece Hall,RB,4,22,20,16,42,Sweet Prince,53,4RB,22,-2,-61.0,3
+53,130,Jordan Addison,WR,6,6,4,38,73,Lamario kart,54,6WR,6,-2,-63.0,5
+54,115,DK Metcalf,WR,4,17,18,23,47,R. Diddy,55,4WR,17,1,-62.0,5
+55,114,Mike Evans,WR,4,19,21,21,45,Hellcat whippers,56,4WR,19,2,-60.0,5
+56,109,DJ Moore,WR,4,25,19,17,39,R. Diddy,57,4WR,25,-6,-66.0,6
+57,110,Rashee Rice,WR,4,24,7,18,40,CTESPN,58,4WR,24,-17,-83.0,5
+58,112,Xavier Worthy,WR,4,21,18,19,43,Sweet Prince,59,4WR,21,-3,-86.0,4
+59,43,D'Andre Swift,RB,6,7,11,24,68,Pollard Greens,60,6RB,7,4,-82.0,5
+60,52,Javonte Williams,RB,7,2,1,31,90,Skittles and Pickles,61,7RB,2,-1,-83.0,7
+61,68,Jordan Mason,RB,8,0,3,41,117,Skittles and Pickles,62,8RB,1,2,-81.0,8
+62,121,Calvin Ridley,WR,5,12,14,28,54,Sweet Prince,63,5WR,12,2,-79.0,5
+63,6,Baker Mayfield,QB,3,6,3,6,73,Hellcat whippers,64,3QB,6,-3,-82.0,6
+64,12,Drake Maye,QB,4,1,3,12,95,Sweet Prince,65,4QB,1,2,-80.0,6
+65,125,Courtland Sutton,WR,5,9,9,33,64,Lamario kart,66,5WR,9,0,-80.0,6
+66,123,DeVonta Smith,WR,5,11,15,31,58,67 Diddy Party FC,67,5WR,11,4,-76.0,4
+67,129,Chris Olave,WR,6,7,13,35,68,Skittles and Pickles,68,6WR,7,6,-70.0,9
+68,124,Jerry Jeudy,WR,5,10,12,32,61,Hellcat whippers,69,5WR,10,2,-68.0,7
+69,60,Aaron Jones Sr,RB,8,0,9,41,117,CTESPN,70,8RB,1,8,-60.0,6
+70,81,Sam LaPorta,TE,3,8,6,4,66,Hellcat whippers,71,3TE,8,-2,-62.0,8
+71,116,Travis Hunter,WR,4,16,9,24,48,Pollard Greens,72,4WR,16,-7,-69.0,6
+72,5,Patrick Mahomes,QB,3,6,7,6,73,67 Diddy Party FC,73,3QB,6,1,-68.0,5
+73,150,Jayden Higgins,WR,7,0,4,51,117,Pollard Greens,74,7WR,1,3,-65.0,7
+74,47,Kaleb Johnson,RB,6,4,6,26,80,CTESPN,75,6RB,4,2,-63.0,7
+75,42,David Montgomery,RB,5,10,6,22,61,When in Rome Ladds get dome,76,5RB,10,-4,-67.0,6
+76,41,RJ Harvey,RB,5,10,14,22,61,Sweet Prince,77,5RB,10,4,-63.0,7
+77,135,Jakobi Meyers,WR,7,1,4,43,95,Hellcat whippers,78,7WR,1,3,-60.0,9
+78,80,TJ Hockenson,TE,3,8,5,4,66,CTESPN,79,3TE,8,-3,-63.0,8
+79,17,Justin Fields,QB,5,0,4,15,117,Skittles and Pickles,80,5QB,1,3,-60.0,10
+80,44,Tony Pollard,RB,6,7,3,24,68,Pollard Greens,81,6RB,7,-4,-64.0,8
+81,73,Brian Robinson,RB,8,0,2,41,117,Turnover on Downs,82,8RB,1,1,-63.0,6
+82,122,Rome Odunze,WR,5,12,10,28,54,When in Rome Ladds get dome,83,5WR,12,-2,-65.0,7
+83,134,Chris Godwin,WR,6,4,3,41,80,Team Dizzo,84,6WR,4,-1,-66.0,5
+84,83,Travis Kelce,TE,3,6,6,6,73,When in Rome Ladds get dome,85,3TE,6,0,-66.0,8
+85,167,Donte Thornton Jr,WR,7,0,1,51,117,Obijan Kenobi,86,7WR,1,0,-66.0,8
+86,7,Bo Nix,QB,3,4,2,8,80,Turnover on Downs,87,3QB,4,-2,-68.0,7
+87,137,Rashid Shaheed,WR,7,1,1,43,95,Hellcat whippers,88,7WR,1,0,-68.0,10
+88,141,Ricky Pearsall,WR,7,1,9,43,95,Sweet Prince,89,7WR,1,8,-60.0,8
+89,82,David Njoku,TE,3,6,3,6,73,67 Diddy Party FC,90,3TE,6,-3,-63.0,6
+90,131,Stefon Diggs,WR,6,5,4,39,78,67 Diddy Party FC,91,6WR,5,-1,-64.0,7
+91,16,Trevor Lawrence,QB,5,0,1,15,117,Pollard Greens,92,5QB,1,0,-64.0,9
+92,128,Matthew Golden,WR,6,7,5,35,68,Pollard Greens,93,6WR,7,-2,-66.0,10
+93,45,Isiah Pacheco,RB,6,4,6,26,80,67 Diddy Party FC,94,6RB,4,2,-64.0,8
+94,11,Kyler Murray,QB,4,1,4,12,95,Pollard Greens,95,4QB,1,3,-61.0,11
+95,133,Jauan Jennings,WR,6,4,4,41,80,67 Diddy Party FC,96,6WR,4,0,-61.0,9
+96,50,Jaylen Warren,RB,7,2,4,31,90,67 Diddy Party FC,97,7RB,2,2,-59.0,10
+97,139,Keon Coleman,WR,7,1,2,43,95,Obijan Kenobi,98,7WR,1,1,-58.0,9
+98,51,Cam Skattebo,RB,7,2,3,31,90,Skittles and Pickles,99,7RB,2,1,-57.0,11
+99,9,JJ McCarthy,QB,4,2,1,10,90,Hellcat whippers,100,4QB,2,-1,-58.0,11
+100,46,Tyrone Tracy Jr,RB,6,4,6,26,80,67 Diddy Party FC,101,6RB,4,2,-56.0,11
+101,127,Khalil Shakir,WR,6,7,3,35,68,67 Diddy Party FC,102,6WR,7,-4,-60.0,12
+102,132,Cooper Kupp,WR,6,5,4,39,78,67 Diddy Party FC,103,6WR,5,-1,-61.0,13
+103,151,Emeka Egbuka,WR,7,0,4,51,117,Pollard Greens,104,7WR,1,3,-58.0,12
+104,49,Rhamondre Stevenson,RB,6,4,2,26,80,R. Diddy,105,6RB,4,-2,-60.0,7
+105,66,Jerome Ford,RB,8,0,3,41,117,R. Diddy,106,8RB,1,2,-58.0,8
+106,13,Caleb Williams,QB,4,1,1,12,95,Team Dizzo,107,4QB,1,0,-58.0,6
+107,87,Evan Engram,TE,4,1,3,9,95,Turnover on Downs,108,4TE,1,2,-56.0,8
+108,89,Dalton Kincaid,TE,5,0,3,13,117,67 Diddy Party FC,109,5TE,1,2,-54.0,14
+109,156,Luther Burden III,WR,7,0,2,51,117,Sweet Prince,110,7WR,1,1,-53.0,9
+110,61,JK Dobbins,RB,8,0,3,41,117,CTESPN,111,8RB,1,2,-51.0,9
+111,138,Jayden Reed,WR,7,1,1,43,95,Hellcat whippers,112,7WR,1,0,-51.0,12
+112,92,Jake Ferguson,TE,5,0,1,13,117,Sweet Prince,113,5TE,1,0,-51.0,10
+113,166,Deebo Samuel,WR,7,0,3,51,117,Obijan Kenobi,114,7WR,1,2,-49.0,10
+114,90,Tyler Warren,TE,5,0,3,13,117,Pollard Greens,115,5TE,1,2,-47.0,13
+115,39,Quinshon Judkins,RB,5,11,1,20,58,CTESPN,116,5RB,11,-10,-57.0,10
+116,65,Dylan Sampson,RB,8,0,4,41,117,Pollard Greens,117,8RB,1,3,-54.0,14
+117,161,Josh Downs,WR,7,0,2,51,117,Turnover on Downs,118,7WR,1,1,-53.0,9
+118,162,Tre Harris,WR,7,0,2,51,117,Turnover on Downs,119,7WR,1,1,-52.0,10
+119,85,Tucker Kraft,TE,4,1,1,9,95,Skittles and Pickles,120,4TE,1,0,-52.0,12
+120,91,Kyle Pitts,TE,5,0,2,13,117,R. Diddy,121,5TE,1,1,-51.0,9
+121,136,Michael Pittman Jr,WR,7,1,2,43,95,Hellcat whippers,122,7WR,1,1,-50.0,13
+122,54,Austin Ekeler,RB,7,1,1,34,95,Hellcat whippers,123,7RB,1,0,-50.0,14
+123,70,Braelon Allen,RB,8,0,1,41,117,Sweet Prince,124,8RB,1,0,-50.0,11
+124,142,Darnell Mooney,WR,7,1,2,43,95,Team Dizzo,125,7WR,1,1,-49.0,7
+125,155,Brandon Aiyuk,WR,7,0,2,51,117,Skittles and Pickles,126,7WR,1,1,-48.0,13
+126,69,Travis Etienne,RB,8,0,2,41,117,Skittles and Pickles,127,8RB,1,1,-47.0,14
+127,84,Mark Andrews,TE,3,3,2,8,88,Lamario kart,128,3TE,3,-1,-48.0,7
+128,86,Colston Loveland,TE,4,1,2,9,95,Sweet Prince,129,4TE,1,1,-47.0,12
+129,56,Tyjae Spears,RB,7,1,1,34,95,Obijan Kenobi,130,7RB,1,0,-47.0,11
+130,58,Rachaad White,RB,7,1,1,34,95,When in Rome Ladds get dome,131,7RB,1,0,-47.0,9
+131,57,Bhayshul Tuten,RB,7,1,1,34,95,Sweet Prince,132,7RB,1,0,-47.0,13
+132,145,Cedric Tillman,WR,7,0,1,51,117,Lamario kart,133,7WR,1,0,-47.0,8
+133,143,Rashod Bateman,WR,7,0,1,51,117,CTESPN,134,7WR,1,0,-47.0,11
+134,152,Pat Bryant,WR,7,0,1,51,117,R. Diddy,135,7WR,1,0,-47.0,10
+135,157,Christian Kirk,WR,7,0,1,51,117,Team Dizzo,136,7WR,1,0,-47.0,8
+136,74,Isaac Guerendo,RB,8,0,1,41,117,Turnover on Downs,137,8RB,1,0,-47.0,11
+137,149,Kyle Williams,WR,7,0,1,51,117,Obijan Kenobi,138,7WR,1,0,-47.0,12
+138,59,Zach Charbonnet,RB,7,1,1,34,95,When in Rome Ladds get dome,139,7RB,1,0,-47.0,10
+139,10,Dak Prescott,QB,4,2,1,10,90,Sweet Prince,140,4QB,2,-1,-48.0,14
+140,146,Adam Thielen,WR,7,0,1,51,117,Lamario kart,141,7WR,1,0,-48.0,9
+141,53,Tank Bigsby,RB,7,1,1,34,95,CTESPN,142,7RB,1,0,-48.0,12
+142,153,DeMario Douglas,WR,7,0,1,51,117,R. Diddy,143,7WR,1,0,-48.0,11
+143,158,Hollywood Brown,WR,7,0,1,51,117,Team Dizzo,144,7WR,1,0,-48.0,9
+144,75,Woody Marks,RB,8,0,1,41,117,Turnover on Downs,145,8RB,1,0,-48.0,12
+145,64,Trey Benson,RB,8,0,1,41,117,Obijan Kenobi,146,8RB,1,0,-48.0,13
+146,163,Wan'Dale Robinson,WR,7,0,1,51,117,When in Rome Ladds get dome,147,7WR,1,0,-48.0,11
+147,147,Marvin Mims Jr,WR,7,0,1,51,117,Lamario kart,148,7WR,1,0,-48.0,10
+148,62,Jaylen Wright,RB,8,0,1,41,117,CTESPN,149,8RB,1,0,-48.0,13
+149,140,Xavier Legette,WR,7,1,1,43,95,R. Diddy,150,7WR,1,0,-48.0,12
+150,71,Tyler Allgeier,RB,8,0,1,41,117,Team Dizzo,151,8RB,1,0,-48.0,10
+151,88,Dallas Goedert,TE,4,1,1,9,95,Turnover on Downs,152,4TE,1,0,-48.0,13
+152,15,Tua Tagovailoa,QB,5,0,1,15,117,Obijan Kenobi,153,5QB,1,0,-48.0,14
+153,19,Jordan Love,QB,5,0,1,15,117,When in Rome Ladds get dome,154,5QB,1,0,-48.0,12
+154,148,Jack Bech,WR,7,0,1,51,117,Lamario kart,155,7WR,1,0,-48.0,11
+155,144,Quentin Johnston,WR,7,0,1,51,117,CTESPN,156,7WR,1,0,-48.0,14
+156,154,DeAndre Hopkins,WR,7,0,1,51,117,R. Diddy,157,7WR,1,0,-48.0,13
+157,18,Justin Herbert,QB,5,0,1,15,117,Team Dizzo,158,5QB,1,0,-48.0,11
+158,76,Jaydon Blue,RB,8,0,1,41,117,Turnover on Downs,159,8RB,1,0,-48.0,14
+159,164,Joshua Palmer,WR,7,0,1,51,117,When in Rome Ladds get dome,160,7WR,1,0,-48.0,13
+160,55,Najee Harris,RB,7,1,1,34,95,Lamario kart,161,7RB,1,0,-48.0,12
+161,67,Roschon Johnson,RB,8,0,1,41,117,R. Diddy,162,8RB,1,0,-48.0,14
+162,159,Jalen McMillan,WR,7,0,1,51,117,Team Dizzo,163,7WR,1,0,-48.0,12
+163,165,Calvin Austin III,WR,7,0,1,51,117,When in Rome Ladds get dome,164,7WR,1,0,-48.0,14
+164,63,Will Shipley,RB,8,0,1,41,117,Lamario kart,165,8RB,1,0,-48.0,13
+165,72,MarShawn Lloyd,RB,8,0,1,41,117,Team Dizzo,166,8RB,1,0,-48.0,13
+166,14,Jared Goff,QB,5,0,1,15,117,Lamario kart,167,5QB,1,0,-48.0,14
+167,160,Keenan Allen,WR,7,0,1,51,117,Team Dizzo,168,7WR,1,0,-48.0,14

@@ -1,0 +1,169 @@
+,Unnamed: 0,Player,Position,Tier,ProjectedAuction$,Auction$,PositionRank,OverallRank,Team,NomOrder,ComboTier,projAuction$Adjusted,diffAdjusted,marketState,rosterFilled
+0,19,Christian McCaffrey,RB,1,68,70,1,1,SpaghEtienne Lamb meatballs,1,1RB,68,2,2.0,1
+1,93,Tyreek Hill,WR,1,68,68,2,5,Miriam Pack,2,1WR,68,0,2.0,1
+2,92,CeeDee Lamb,WR,1,69,73,1,3,SpaghEtienne Lamb meatballs,4,1WR,69,4,6.0,2
+3,94,Ja'Marr Chase,WR,1,66,66,3,6,Hellcat whippers 🥷,5,1WR,66,0,6.0,1
+4,4,Anthony Richardson,QB,2,12,11,5,54,Baking your favorite player,6,2QB,12,-1,5.0,1
+5,95,Amon-Ra St. Brown,WR,1,65,65,3,6,Sweet Prince,7,1WR,65,0,5.0,1
+6,23,Saquon Barkley,RB,2,60,50,5,10,2 Men 1 Higgins,8,2RB,60,-10,-5.0,1
+7,96,Justin Jefferson,WR,1,63,65,5,8,Njigba🥷 Pass,9,1WR,63,2,-3.0,1
+8,21,Breece Hall,RB,1,66,66,3,3,Team Dizzo,10,1RB,66,0,-3.0,1
+9,20,Bijan Robinson,RB,1,67,67,2,2,CTESPN,11,1RB,67,0,-3.0,1
+10,0,Josh Allen,QB,1,27,34,1,35,Josh Allen Enthusiasts,12,1QB,27,7,4.0,1
+11,29,Rachaad White,RB,3,37,39,11,25,Josh Allen Enthusiasts,13,3RB,37,2,6.0,2
+12,26,Isiah Pacheco,RB,2,48,50,8,16,Miriam Pack,14,2RB,48,2,8.0,2
+13,22,Jonathan Taylor,RB,2,61,60,4,9,Can You Give Me One More Win,15,2RB,61,-1,7.0,1
+14,97,A.J. Brown,WR,2,58,57,6,11,Team Dizzo,16,2WR,58,-1,6.0,2
+15,99,Garrett Wilson,WR,2,55,56,8,13,2 Men 1 Higgins,17,2WR,55,1,7.0,2
+16,38,James Conner,RB,4,9,15,20,64,Bob Stevenson,18,4RB,9,6,13.0,1
+17,114,Cooper Kupp,WR,4,21,31,23,44,2 Men 1 Higgins,19,4WR,21,10,23.0,3
+18,98,Puka Nacua,WR,2,56,48,7,12,CTESPN,20,2WR,56,-8,15.0,2
+19,25,Kyren Williams,RB,2,51,45,7,15,Njigba🥷 Pass,21,2RB,51,-6,9.0,2
+20,100,Chris Olave,WR,3,45,35,9,18,Bob Stevenson,22,3WR,45,-10,-1.0,2
+21,24,Jahmyr Gibbs,RB,2,52,44,6,14,Baking your favorite player,23,2RB,52,-8,-9.0,2
+22,37,Rhamondre Stevenson,RB,4,10,11,18,61,Bob Stevenson,24,4RB,10,1,-8.0,3
+23,105,Drake London,WR,3,38,32,14,23,Sweet Prince,25,3WR,38,-6,-14.0,2
+24,112,Stefon Diggs,WR,4,23,18,21,41,CTESPN,26,4WR,23,-5,-19.0,3
+25,35,De'Von Achane,RB,3,23,29,17,41,Team Dizzo,27,3RB,23,6,-13.0,3
+26,28,Derrick Henry,RB,3,38,31,10,23,Bob Stevenson,28,3RB,38,-7,-20.0,4
+27,27,Travis Etienne Jr.,RB,2,46,38,9,17,Can You Give Me One More Win,29,2RB,46,-8,-28.0,2
+28,2,Lamar Jackson,QB,1,16,21,3,49,2 Men 1 Higgins,30,1QB,16,5,-23.0,4
+29,108,DK Metcalf,WR,4,32,28,17,31,Can You Give Me One More Win,31,4WR,32,-4,-27.0,3
+30,103,Davante Adams,WR,3,41,33,12,21,Njigba🥷 Pass,32,3WR,41,-8,-35.0,3
+31,30,Alvin Kamara,RB,3,36,25,12,26,Hellcat whippers 🥷,33,3RB,36,-11,-46.0,2
+32,106,Malik Nabers,WR,4,36,27,15,26,Bob Stevenson,34,4WR,36,-9,-55.0,5
+33,113,DeVonta Smith,WR,4,22,25,22,43,Njigba🥷 Pass,35,4WR,22,3,-52.0,4
+34,31,James Cook,RB,3,34,35,13,29,Josh Allen Enthusiasts,36,3RB,34,1,-51.0,3
+35,72,Sam LaPorta,TE,1,27,23,1,35,CTESPN,37,1TE,27,-4,-55.0,4
+36,34,Kenneth Walker III,RB,3,24,32,16,40,Miriam Pack,38,3RB,24,8,-47.0,3
+37,71,Travis Kelce,TE,1,27,22,1,35,Bob Stevenson,39,1TE,27,-5,-52.0,6
+38,101,Michael Pittman Jr.,WR,3,43,23,10,19,Team Dizzo,40,3WR,43,-20,-72.0,4
+39,33,Joe Mixon,RB,3,26,24,15,38,Josh Allen Enthusiasts,41,3RB,26,-2,-74.0,4
+40,1,Jalen Hurts,QB,1,26,26,2,38,Hellcat whippers 🥷,42,1QB,26,0,-74.0,3
+41,121,Chris Godwin,WR,5,12,15,30,54,Josh Allen Enthusiasts,43,5WR,12,3,-71.0,5
+42,102,Mike Evans,WR,3,42,36,11,20,Hellcat whippers 🥷,44,3WR,42,-6,-77.0,4
+43,104,Marvin Harrison Jr.,WR,3,40,37,13,22,Baking your favorite player,45,3WR,40,-3,-80.0,3
+44,107,Nico Collins,WR,3,36,22,15,26,Hellcat whippers 🥷,46,3WR,36,-14,-94.0,5
+45,110,Brandon Aiyuk,WR,4,29,25,19,33,Bob Stevenson,47,4WR,29,-4,-98.0,7
+46,3,Patrick Mahomes,QB,2,16,16,3,49,CTESPN,48,2QB,16,0,-98.0,5
+47,111,DJ Moore,WR,4,28,20,20,34,Bob Stevenson,49,4WR,28,-8,-106.0,8
+48,32,Josh Jacobs,RB,3,33,23,14,30,Baking your favorite player,50,3RB,33,-10,-116.0,4
+49,40,Aaron Jones,RB,4,9,10,20,64,Sweet Prince,51,4RB,9,1,-115.0,3
+50,116,Zay Flowers,WR,5,18,17,25,46,Josh Allen Enthusiasts,52,5WR,18,-1,-116.0,6
+51,73,Mark Andrews,TE,2,14,14,3,51,Sweet Prince,53,2TE,14,0,-116.0,4
+52,51,Raheem Mostert,RB,6,2,4,32,96,Bob Stevenson,54,6RB,2,2,-114.0,9
+53,9,Kyler Murray,QB,4,4,9,9,87,Can You Give Me One More Win,55,4QB,4,5,-109.0,4
+54,109,Deebo Samuel Sr.,WR,4,31,28,18,32,Miriam Pack,56,4WR,31,-3,-112.0,4
+55,78,Dalton Kincaid,TE,3,7,11,7,74,Sweet Prince,57,3TE,7,4,-108.0,5
+56,118,Rashee Rice,WR,5,17,15,27,48,Can You Give Me One More Win,58,5WR,17,-2,-110.0,5
+57,115,Jaylen Waddle,WR,4,21,26,23,44,Sweet Prince,59,4WR,21,5,-105.0,6
+58,120,George Pickens,WR,5,13,16,28,52,SpaghEtienne Lamb meatballs,60,5WR,13,3,-102.0,3
+59,10,Jordan Love,QB,4,4,2,9,87,SpaghEtienne Lamb meatballs,61,4QB,4,-2,-104.0,4
+60,117,Calvin Ridley,WR,5,18,16,25,46,Josh Allen Enthusiasts,62,5WR,18,-2,-106.0,7
+61,6,C.J. Stroud,QB,3,12,3,5,54,Team Dizzo,63,3QB,12,-9,-115.0,5
+62,75,Trey McBride,TE,2,12,10,4,54,Sweet Prince,64,2TE,12,-2,-117.0,7
+63,133,Xavier Worthy,WR,7,5,4,38,78,CTESPN,65,7WR,5,-1,-118.0,6
+64,138,Brian Thomas Jr.,WR,8,2,2,46,96,Bob Stevenson,66,8WR,2,0,-118.0,10
+65,122,Tank Dell,WR,5,12,17,30,54,Njigba🥷 Pass,67,5WR,12,5,-113.0,5
+66,42,Brian Robinson Jr.,RB,4,7,2,23,74,Josh Allen Enthusiasts,68,4RB,7,-5,-118.0,8
+67,59,Ezekiel Elliott,RB,6,2,2,32,96,Sweet Prince,69,6RB,2,0,-118.0,8
+68,119,Tee Higgins,WR,5,13,15,28,52,Baking your favorite player,70,5WR,13,2,-116.0,5
+69,48,Devin Singletary,RB,5,4,3,28,87,Njigba🥷 Pass,71,5RB,4,-1,-117.0,6
+70,127,Terry McLaurin,WR,6,8,10,33,68,Miriam Pack,72,6WR,8,2,-115.0,5
+71,8,Brock Purdy,QB,4,4,1,9,87,Bob Stevenson,73,4QB,4,-3,-118.0,11
+72,77,Kyle Pitts,TE,3,7,7,7,74,2 Men 1 Higgins,74,3TE,7,0,-118.0,5
+73,5,Joe Burrow,QB,3,12,3,5,54,Josh Allen Enthusiasts,75,3QB,12,-9,-127.0,9
+74,39,Zamir White,RB,4,9,6,20,64,Josh Allen Enthusiasts,76,4RB,9,-3,-130.0,10
+75,74,Evan Engram,TE,2,12,6,4,54,Baking your favorite player,77,2TE,12,-6,-136.0,6
+76,135,Keon Coleman,WR,7,4,3,44,87,CTESPN,78,7WR,4,-1,-137.0,7
+77,62,Blake Corum,RB,6,1,1,42,120,Can You Give Me One More Win,79,6RB,1,0,-137.0,6
+78,123,Amari Cooper,WR,5,9,17,32,64,Baking your favorite player,80,5WR,9,8,-129.0,7
+79,7,Dak Prescott,QB,3,10,3,8,61,Can You Give Me One More Win,81,3QB,10,-7,-136.0,7
+80,76,George Kittle,TE,3,8,6,6,68,SpaghEtienne Lamb meatballs,82,3TE,8,-2,-138.0,5
+81,14,Caleb Williams,QB,5,1,4,15,120,Baking your favorite player,83,5QB,1,3,-135.0,8
+82,44,Najee Harris,RB,5,5,9,25,78,SpaghEtienne Lamb meatballs,84,5RB,5,4,-131.0,6
+83,15,Trevor Lawrence,QB,6,1,1,15,120,Bob Stevenson,85,6QB,1,0,-131.0,12
+84,54,Jerome Ford,RB,6,2,2,32,96,CTESPN,86,6RB,2,0,-131.0,8
+85,13,Jayden Daniels,QB,5,2,5,12,96,Sweet Prince,87,5QB,2,3,-128.0,9
+86,130,Jayden Reed,WR,7,5,5,38,78,2 Men 1 Higgins,88,7WR,5,0,-128.0,6
+87,82,David Njoku,TE,4,2,4,9,96,Hellcat whippers 🥷,89,4TE,2,2,-126.0,6
+88,18,Tua Tagovailoa,QB,6,0,1,18,151,Miriam Pack,90,6QB,1,0,-126.0,6
+89,41,Javonte Williams,RB,4,7,9,23,74,Baking your favorite player,91,4RB,7,2,-124.0,9
+90,125,Christian Kirk,WR,6,8,13,33,68,Can You Give Me One More Win,92,6WR,8,5,-119.0,8
+91,45,David Montgomery,RB,5,5,11,25,78,Sweet Prince,93,5RB,5,6,-113.0,10
+92,43,Jaylen Warren,RB,5,5,7,25,78,CTESPN,94,5RB,5,2,-111.0,9
+93,12,Justin Herbert,QB,5,2,1,12,96,Njigba🥷 Pass,95,5QB,2,-1,-112.0,7
+94,36,D'Andre Swift,RB,4,10,11,18,61,2 Men 1 Higgins,98,4RB,10,1,-111.0,7
+95,126,Keenan Allen,WR,6,8,12,33,68,Hellcat whippers 🥷,99,6WR,8,4,-107.0,7
+96,128,Diontae Johnson,WR,6,8,16,33,68,SpaghEtienne Lamb meatballs,101,6WR,8,8,-99.0,7
+97,156,Ja'Lynn Polk,WR,8,1,2,52,120,Sweet Prince,102,8WR,1,1,-98.0,11
+98,131,Christian Watson,WR,7,5,6,38,78,Baking your favorite player,103,7WR,5,1,-97.0,10
+99,124,Jaxon Smith-Njigba,WR,5,8,9,33,68,Baking your favorite player,104,5WR,8,1,-96.0,11
+100,46,Tyjae Spears,RB,5,4,9,28,87,Baking your favorite player,105,5RB,4,5,-91.0,12
+101,55,Zack Moss,RB,6,2,2,32,96,CTESPN,106,6RB,2,0,-91.0,10
+102,139,Mike Williams,WR,8,2,3,46,96,Can You Give Me One More Win,108,8WR,2,1,-90.0,9
+103,136,Ladd McConkey,WR,7,4,9,44,87,Team Dizzo,109,7WR,4,5,-85.0,6
+104,132,Jordan Addison,WR,7,5,8,38,78,Can You Give Me One More Win,110,7WR,5,3,-82.0,10
+105,79,Jake Ferguson,TE,4,2,5,9,96,Baking your favorite player,112,4TE,2,3,-79.0,13
+106,152,Adonai Mitchell,WR,8,1,1,52,120,Miriam Pack,114,8WR,1,0,-79.0,7
+107,147,Jameson Williams,WR,8,1,7,52,120,Can You Give Me One More Win,115,8WR,1,6,-73.0,11
+108,129,Rome Odunze,WR,7,5,10,38,78,2 Men 1 Higgins,116,7WR,5,5,-68.0,8
+109,134,Courtland Sutton,WR,7,5,5,38,78,Sweet Prince,117,7WR,5,0,-68.0,12
+110,50,J.K. Dobbins,RB,6,2,2,32,96,2 Men 1 Higgins,118,6RB,2,0,-68.0,9
+111,83,T.J. Hockenson,TE,4,2,3,9,96,Njigba🥷 Pass,119,4TE,2,1,-67.0,8
+112,158,Curtis Samuel,WR,8,1,3,52,120,Team Dizzo,120,8WR,1,2,-65.0,7
+113,146,Darnell Mooney,WR,8,1,1,52,120,Bob Stevenson,121,8WR,1,0,-65.0,13
+114,58,Jonathon Brooks,RB,6,2,4,32,96,Sweet Prince,122,6RB,2,2,-63.0,13
+115,142,DeAndre Hopkins,WR,8,2,2,46,96,Team Dizzo,123,8WR,2,0,-63.0,8
+116,151,DeMario Douglas,WR,8,1,1,52,120,Josh Allen Enthusiasts,124,8WR,1,0,-63.0,11
+117,52,Chase Brown,RB,6,2,4,32,96,Can You Give Me One More Win,125,6RB,2,2,-61.0,12
+118,80,Brock Bowers,TE,4,2,4,9,96,Bob Stevenson,126,4TE,2,2,-59.0,14
+119,61,Zach Charbonnet,RB,6,1,3,42,120,Can You Give Me One More Win,127,6RB,1,2,-57.0,13
+120,47,Tony Pollard,RB,5,4,2,28,87,Hellcat whippers 🥷,128,5RB,4,-2,-59.0,8
+121,49,Austin Ekeler,RB,6,4,2,28,87,Team Dizzo,129,6RB,4,-2,-61.0,9
+122,63,Tyler Allgeier,RB,6,1,2,42,120,CTESPN,130,6RB,1,1,-60.0,11
+123,81,Dallas Goedert,TE,4,2,6,9,96,Can You Give Me One More Win,131,4TE,2,4,-56.0,14
+124,141,Tyler Lockett,WR,8,2,2,46,96,Miriam Pack,132,8WR,2,0,-56.0,8
+125,137,Jakobi Meyers,WR,8,2,1,46,96,2 Men 1 Higgins,133,8WR,2,-1,-57.0,10
+126,157,Xavier Legette,WR,8,1,2,52,120,Sweet Prince,134,8WR,1,1,-56.0,14
+127,84,Pat Freiermuth,TE,5,1,3,14,120,Josh Allen Enthusiasts,135,5TE,1,2,-54.0,12
+128,53,Nick Chubb,RB,6,2,3,32,96,CTESPN,136,6RB,2,1,-53.0,12
+129,145,Jerry Jeudy,WR,8,1,3,52,120,Baking your favorite player,137,8WR,1,2,-51.0,14
+130,140,Marquise Brown,WR,8,2,3,46,96,CTESPN,138,8WR,2,1,-50.0,13
+131,143,Joshua Palmer,WR,8,1,2,52,120,2 Men 1 Higgins,139,8WR,1,1,-49.0,11
+132,85,Dalton Schultz,TE,5,1,1,14,120,Njigba🥷 Pass,140,5TE,1,0,-49.0,9
+133,150,Khalil Shakir,WR,8,1,2,52,120,Josh Allen Enthusiasts,141,8WR,1,1,-48.0,13
+134,88,Cole Kmet,TE,5,0,2,17,151,Josh Allen Enthusiasts,142,5TE,1,1,-47.0,14
+135,148,Rashid Shaheed,WR,8,1,1,52,120,CTESPN,143,8WR,1,0,-47.0,14
+136,56,Gus Edwards,RB,6,2,1,32,96,Miriam Pack,144,6RB,2,-1,-48.0,9
+137,65,Trey Benson,RB,6,1,2,42,120,Miriam Pack,145,6RB,1,1,-47.0,10
+138,11,Aaron Rodgers,QB,5,2,1,12,96,Hellcat whippers 🥷,146,5QB,2,-1,-48.0,9
+139,153,Adam Thielen,WR,8,1,2,52,120,Njigba🥷 Pass,148,8WR,1,1,-47.0,10
+140,60,Ty Chandler,RB,6,1,1,42,120,2 Men 1 Higgins,149,6RB,1,0,-47.0,12
+141,66,Rico Dowdle,RB,6,1,1,42,120,Miriam Pack,150,6RB,1,0,-47.0,11
+142,91,Taysom Hill,TE,5,0,1,17,151,Team Dizzo,151,5TE,1,0,-47.0,10
+143,149,Romeo Doubs,WR,8,1,1,52,120,Hellcat whippers 🥷,152,8WR,1,0,-47.0,10
+144,154,Dontayvion Wicks,WR,8,1,1,52,120,Njigba🥷 Pass,153,8WR,1,0,-47.0,11
+145,57,Chuba Hubbard,RB,6,2,1,32,96,SpaghEtienne Lamb meatballs,154,6RB,2,-1,-48.0,8
+146,144,Gabe Davis,WR,8,1,1,52,120,2 Men 1 Higgins,155,8WR,1,0,-48.0,13
+147,161,Javon Baker,WR,8,0,1,68,151,Miriam Pack,156,8WR,1,0,-48.0,12
+148,163,Quentin Johnston,WR,8,0,1,68,151,Njigba🥷 Pass,159,8WR,1,0,-48.0,12
+149,155,Brandin Cooks,WR,8,1,1,52,120,SpaghEtienne Lamb meatballs,160,8WR,1,0,-48.0,9
+150,17,Jared Goff,QB,6,0,1,18,151,2 Men 1 Higgins,161,6QB,1,0,-48.0,14
+151,89,Ben Sinnott,TE,5,0,1,17,151,Miriam Pack,162,5TE,1,0,-48.0,13
+152,70,Kendre Miller,RB,6,0,1,51,151,Team Dizzo,163,6RB,1,0,-48.0,11
+153,64,Antonio Gibson,RB,6,1,1,42,120,Hellcat whippers 🥷,164,6RB,1,0,-48.0,11
+154,67,Jaleel McLaughlin,RB,6,1,1,42,120,Njigba🥷 Pass,165,6RB,1,0,-48.0,13
+155,68,Tyrone Tracy Jr.,RB,6,1,1,42,120,SpaghEtienne Lamb meatballs,166,6RB,1,0,-48.0,10
+156,162,Luke McCaffrey,WR,8,0,1,68,151,Miriam Pack,168,8WR,1,0,-48.0,14
+157,165,Justin Watson,WR,8,0,1,68,151,Team Dizzo,169,8WR,1,0,-48.0,12
+158,159,Jahan Dotson,WR,8,0,1,68,151,Hellcat whippers 🥷,170,8WR,1,0,-48.0,12
+159,86,Tyler Conklin,TE,5,1,1,14,120,Njigba🥷 Pass,171,5TE,1,0,-48.0,14
+160,69,Kimani Vidal,RB,6,0,1,51,151,SpaghEtienne Lamb meatballs,172,6RB,1,0,-48.0,11
+161,166,Marvin Mims Jr,WR,8,0,1,68,151,Team Dizzo,174,8WR,1,0,-48.0,13
+162,87,Noah Fant,TE,5,0,1,17,151,Hellcat whippers 🥷,175,5TE,1,0,-48.0,13
+163,90,Dawson Knox,TE,5,0,1,17,151,SpaghEtienne Lamb meatballs,176,5TE,1,0,-48.0,12
+164,167,Odell Beckham Jr,WR,8,0,1,68,151,Team Dizzo,177,8WR,1,0,-48.0,14
+165,160,Jauan Jennings,WR,8,0,1,68,151,Hellcat whippers 🥷,178,8WR,1,0,-48.0,14
+166,164,Wan'Dale Robinson,WR,8,0,1,68,151,SpaghEtienne Lamb meatballs,179,8WR,1,0,-48.0,13
+167,16,Deshaun Watson,QB,6,1,1,15,120,SpaghEtienne Lamb meatballs,180,6QB,1,0,-48.0,14

@@ -1,0 +1,168 @@
+,Unnamed: 0,Player,Position,Tier,ProjectedAuction$,Auction$,PositionRank,OverallRank,Team,NomOrder,ComboTier,projAuction$Adjusted,diffAdjusted,marketState,rosterFilled
+0,1,Patrick Mahomes,QB,1,37,42,1,25,YSL🐍,1,1QB,37,5,5.0,1
+1,94,Justin Jefferson,WR,1,71,73,1,1,Sweet Prince,2,1WR,71,2,7.0,1
+2,81,Kyle Pitts,TE,4,8,9,5,67,Tank Man,3,4TE,8,1,8.0,1
+3,99,Cooper Kupp,WR,3,52,64,6,12,Rams Double,4,3WR,52,12,20.0,1
+4,22,Bijan Robinson,RB,2,62,60,3,8,Goodbye Dizzo,5,2RB,62,-2,18.0,1
+5,95,Ja'Marr Chase,WR,1,70,69,2,2,Sweet Prince,6,1WR,70,-1,17.0,2
+6,20,Austin Ekeler,RB,1,70,65,1,2,Ravens Triple,7,1RB,70,-5,12.0,1
+7,25,Nick Chubb,RB,2,51,54,6,13,For Chubb🙏🏽,8,2RB,51,3,15.0,1
+8,21,Christian McCaffrey,RB,1,69,68,2,4,Flock Bills,9,1RB,69,-1,14.0,1
+9,0,Josh Allen,QB,1,37,37,1,25,Tank Man,10,1QB,37,0,14.0,2
+10,41,Kenneth Walker III,RB,5,14,11,20,51,Rams Double,11,5RB,14,-3,11.0,2
+11,75,Travis Kelce,TE,1,62,65,1,4,Team Dizzo,12,1TE,62,3,14.0,1
+12,101,Garrett Wilson,WR,3,49,45,8,15,Madison Soss Garden Boys,13,3WR,49,-4,10.0,1
+13,96,Tyreek Hill,WR,1,67,64,3,6,YSL🐍,14,1WR,67,-3,7.0,2
+14,98,Stefon Diggs,WR,3,56,59,5,10,Rams Double,15,3WR,56,3,10.0,3
+15,2,Jalen Hurts,QB,1,35,37,3,27,Tank Man,17,1QB,35,2,12.0,3
+16,23,Derrick Henry,RB,2,58,48,4,9,Team Dizzo,18,2RB,58,-10,2.0,2
+17,24,Tony Pollard,RB,2,53,52,5,11,Madison Soss Garden Boys,19,2RB,53,-1,1.0,2
+18,102,Amon-Ra St. Brown,WR,3,46,49,9,16,YSL🐍,20,3WR,46,3,4.0,3
+19,100,CeeDee Lamb,WR,3,50,57,7,14,Cowboys Triple,21,3WR,50,7,11.0,1
+20,97,Davante Adams,WR,2,64,58,4,7,For Chubb🙏🏽,22,2WR,64,-6,5.0,2
+21,77,T.J. Hockenson,TE,3,16,12,3,48,Tank Man,23,3TE,16,-4,1.0,4
+22,103,A.J. Brown,WR,3,45,49,10,17,Heart Grit and Effort,24,3WR,45,4,5.0,1
+23,106,Chris Olave,WR,4,39,39,13,22,Goodbye Dizzo,25,4WR,39,0,5.0,2
+24,104,Jaylen Waddle,WR,4,41,43,11,20,Flock Bills,26,4WR,41,2,7.0,2
+25,29,Travis Etienne Jr.,RB,3,34,34,9,28,Goodbye Dizzo,27,3RB,34,0,7.0,3
+26,27,Joe Mixon,RB,3,43,32,8,19,Tank Man,28,3RB,43,-11,-4.0,5
+27,76,Mark Andrews,TE,2,26,31,2,37,Ravens Triple,29,2TE,26,5,1.0,2
+28,26,Josh Jacobs,RB,3,44,39,7,18,For Chubb🙏🏽,30,3RB,44,-5,-4.0,3
+29,28,Jonathan Taylor,RB,3,42,38,23,60,Ravens Triple,31,3RB,42,-4,-8.0,3
+30,105,DK Metcalf,WR,4,40,38,12,21,Sweet Prince,32,4WR,40,-2,-10.0,3
+31,110,Calvin Ridley,WR,5,27,36,16,34,Goodbye Dizzo,33,5WR,27,9,-1.0,4
+32,31,Najee Harris,RB,4,32,21,10,29,Tank Man,34,4RB,32,-11,-12.0,6
+33,107,Tee Higgins,WR,4,39,40,13,22,Rams Double,35,4WR,39,1,-11.0,4
+34,108,DeVonta Smith,WR,4,38,30,15,24,Team Dizzo,36,4WR,38,-8,-19.0,3
+35,3,Lamar Jackson,QB,2,26,25,4,37,Ravens Triple,37,2QB,26,-1,-20.0,4
+36,30,Jahmyr Gibbs,RB,3,32,29,10,29,Heart Grit and Effort,38,3RB,32,-3,-23.0,2
+37,36,Rachaad White,RB,5,19,14,15,45,Heart Grit and Effort,39,5RB,19,-5,-28.0,3
+38,33,Rhamondre Stevenson,RB,4,29,21,13,32,Tank Man,40,4RB,29,-8,-36.0,7
+39,32,Aaron Jones,RB,4,31,27,12,31,Madison Soss Garden Boys,41,4RB,31,-4,-40.0,3
+40,4,Joe Burrow,QB,2,25,20,5,39,Team Dizzo,42,2QB,25,-5,-45.0,4
+41,109,Deebo Samuel,WR,5,27,23,16,34,Cowboys Triple,43,5WR,27,-4,-49.0,2
+42,35,Breece Hall,RB,5,19,15,15,45,Cowboys Triple,44,5RB,19,-4,-53.0,3
+43,111,Keenan Allen,WR,5,27,30,16,34,Heart Grit and Effort,45,5WR,27,3,-50.0,4
+44,5,Justin Fields,QB,3,13,14,6,53,For Chubb🙏🏽,46,3QB,13,1,-49.0,4
+45,8,Trevor Lawrence,QB,4,7,12,9,73,Flock Bills,47,4QB,7,5,-44.0,3
+46,112,Amari Cooper,WR,5,23,22,19,40,Flock Bills,48,5WR,23,-1,-45.0,4
+47,38,Miles Sanders,RB,5,16,16,18,48,Madison Soss Garden Boys,49,5RB,16,0,-45.0,4
+48,116,Chris Godwin,WR,5,21,16,22,43,Team Dizzo,50,5WR,21,-5,-50.0,5
+49,37,Alvin Kamara,RB,5,17,16,17,47,Heart Grit and Effort,51,5RB,17,-1,-51.0,5
+50,122,Jerry Jeudy,WR,6,9,24,28,63,For Chubb🙏🏽,52,6WR,9,15,-36.0,5
+51,113,Christian Watson,WR,5,23,16,19,40,Goodbye Dizzo,53,5WR,23,-7,-43.0,5
+52,114,DeAndre Hopkins,WR,5,22,12,21,42,Flock Bills,54,5WR,22,-10,-53.0,5
+53,6,Justin Herbert,QB,3,13,8,6,53,Heart Grit and Effort,55,3QB,13,-5,-58.0,6
+54,34,Dameon Pierce,RB,4,28,17,14,33,Madison Soss Garden Boys,56,4RB,28,-11,-69.0,5
+55,7,Deshaun Watson,QB,4,8,7,8,67,Cowboys Triple,57,4QB,8,-1,-70.0,4
+56,115,Diontae Johnson,WR,5,21,12,22,43,Heart Grit and Effort,58,5WR,21,-9,-79.0,7
+57,78,Darren Waller,TE,4,9,10,4,63,Rams Double,59,4TE,9,1,-78.0,5
+58,39,James Conner,RB,5,15,13,19,50,YSL🐍,60,5RB,15,-2,-80.0,4
+59,10,Daniel Jones,QB,5,2,3,10,95,Madison Soss Garden Boys,61,5QB,2,1,-79.0,6
+60,119,Mike Evans,WR,6,11,7,25,57,Flock Bills,62,6WR,11,-4,-83.0,6
+61,40,Alexander Mattison,RB,5,14,12,20,51,Heart Grit and Effort,63,5RB,14,-2,-85.0,8
+62,44,Javonte Williams,RB,5,10,9,23,60,YSL🐍,64,5RB,10,-1,-86.0,5
+63,117,DJ Moore,WR,6,13,10,24,53,Tank Man,65,6WR,13,-3,-89.0,8
+64,42,James Cook,RB,5,13,4,22,53,Tank Man,66,5RB,13,-9,-98.0,9
+65,118,Terry McLaurin,WR,6,11,15,25,57,Cowboys Triple,67,6WR,11,4,-94.0,5
+66,123,Marquise Brown,WR,6,9,5,28,63,Ravens Triple,68,6WR,9,-4,-98.0,5
+67,80,George Kittle,TE,4,8,12,5,67,Heart Grit and Effort,69,4TE,8,4,-94.0,9
+68,48,Dalvin Cook,RB,6,5,7,29,77,Rams Double,70,6RB,5,2,-92.0,6
+69,45,J.K. Dobbins,RB,6,7,8,26,73,Flock Bills,71,6RB,7,1,-91.0,7
+70,43,Cam Akers,RB,5,10,5,23,60,Heart Grit and Effort,72,5RB,10,-5,-96.0,10
+71,128,Brandin Cooks,WR,7,5,3,33,77,Madison Soss Garden Boys,73,7WR,5,-2,-98.0,7
+72,79,Dallas Goedert,TE,4,8,6,5,67,Flock Bills,74,4TE,8,-2,-100.0,8
+73,140,Michael Thomas,WR,8,2,6,41,95,Madison Soss Garden Boys,75,8WR,2,4,-96.0,8
+74,120,Mike Williams,WR,6,11,13,25,57,YSL🐍,76,6WR,11,2,-94.0,6
+75,125,Drake London,WR,6,8,6,31,67,Ravens Triple,77,6WR,8,-2,-96.0,6
+76,127,George Pickens,WR,7,5,6,33,77,Madison Soss Garden Boys,78,7WR,5,1,-95.0,9
+77,47,David Montgomery,RB,6,7,3,26,73,Madison Soss Garden Boys,79,6RB,7,-4,-99.0,10
+78,121,Tyler Lockett,WR,6,9,9,28,63,Flock Bills,80,6WR,9,0,-99.0,9
+79,84,David Njoku,TE,5,4,7,8,86,Madison Soss Garden Boys,81,5TE,4,3,-96.0,11
+80,126,Skyy Moore,WR,7,5,2,33,77,Goodbye Dizzo,82,7WR,5,-3,-99.0,6
+81,11,Dak Prescott,QB,5,2,1,10,95,Rams Double,83,5QB,2,-1,-100.0,7
+82,124,Brandon Aiyuk,WR,6,8,11,31,67,Cowboys Triple,84,6WR,8,3,-97.0,6
+83,46,Isiah Pacheco,RB,6,7,7,26,73,Madison Soss Garden Boys,85,6RB,7,0,-97.0,12
+84,129,Christian Kirk,WR,7,5,10,33,77,Ravens Triple,86,7WR,5,5,-92.0,7
+85,133,Michael Pittman Jr.,WR,7,5,8,33,77,Team Dizzo,87,7WR,5,3,-89.0,6
+86,49,AJ Dillon,RB,6,4,6,30,86,Flock Bills,88,6RB,4,2,-87.0,10
+87,83,Pat Freiermuth,TE,5,4,3,8,86,Goodbye Dizzo,89,5TE,4,-1,-88.0,7
+88,85,Evan Engram,TE,5,4,2,8,86,Sweet Prince,90,5TE,4,-2,-90.0,4
+89,51,Khalil Herbert,RB,6,4,3,30,86,Sweet Prince,91,6RB,4,-1,-91.0,5
+90,50,D'Andre Swift,RB,6,4,5,30,86,Ravens Triple,92,6RB,4,1,-90.0,8
+91,131,Courtland Sutton,WR,7,5,5,33,77,Tank Man,93,7WR,5,0,-90.0,10
+92,130,Jaxon Smith-Njigba,WR,7,5,5,33,77,Ravens Triple,94,7WR,5,0,-90.0,9
+93,52,Brian Robinson Jr.,RB,6,4,3,30,86,Tank Man,95,6RB,4,-1,-91.0,11
+94,144,Treylon Burks,WR,8,2,3,41,95,Tank Man,96,8WR,2,1,-90.0,12
+95,135,Odell Beckham Jr.,WR,8,2,3,41,95,Flock Bills,98,8WR,2,1,-89.0,11
+96,53,Antonio Gibson,RB,6,4,3,30,86,Team Dizzo,100,6RB,4,-1,-90.0,7
+97,14,Anthony Richardson,QB,5,1,1,14,120,Goodbye Dizzo,101,5QB,1,0,-90.0,8
+98,71,De'Von Achane,RB,8,0,1,46,138,Ravens Triple,102,8RB,1,0,-90.0,10
+99,12,Tua Tagovailoa,QB,5,2,1,10,95,Sweet Prince,103,5QB,2,-1,-91.0,6
+100,138,Jordan Addison,WR,8,2,5,41,95,Heart Grit and Effort,104,8WR,2,3,-88.0,11
+101,82,Cole Kmet,TE,5,4,3,8,86,Cowboys Triple,105,5TE,4,-1,-89.0,7
+102,16,Aaron Rodgers,QB,5,1,1,14,120,YSL🐍,106,5QB,1,0,-89.0,7
+103,56,Jamaal Williams,RB,7,2,3,35,95,Heart Grit and Effort,107,7RB,2,1,-88.0,12
+104,132,Jahan Dotson,WR,7,5,4,33,77,Tank Man,108,7WR,5,-1,-89.0,13
+105,91,Irv Smith Jr.,TE,7,0,1,16,138,Madison Soss Garden Boys,109,7TE,1,0,-89.0,13
+106,139,Gabe Davis,WR,8,2,2,41,95,Heart Grit and Effort,110,8WR,2,0,-89.0,13
+107,146,Jakobi Meyers,WR,8,2,2,41,95,Team Dizzo,111,8WR,2,0,-89.0,8
+108,141,Zay Flowers,WR,8,2,4,41,95,Ravens Triple,112,8WR,2,2,-87.0,11
+109,137,Quentin Johnston,WR,8,2,3,41,95,Goodbye Dizzo,113,8WR,2,1,-86.0,9
+110,58,Rashaad Penny,RB,7,2,2,35,95,Team Dizzo,114,7RB,2,0,-86.0,9
+111,72,Jeff Wilson Jr.,RB,8,0,1,46,138,Sweet Prince,115,8RB,1,0,-86.0,7
+112,90,Zach Ertz,TE,7,0,1,16,138,For Chubb🙏🏽,116,7TE,1,0,-86.0,6
+113,136,Elijah Moore,WR,8,2,2,41,95,For Chubb🙏🏽,117,8WR,2,0,-86.0,7
+114,57,Samaje Perine,RB,7,2,2,35,95,Sweet Prince,118,7RB,2,0,-86.0,8
+115,147,JuJu Smith-Schuster,WR,8,2,2,41,95,YSL🐍,119,8WR,2,0,-86.0,8
+116,145,Rondale Moore,WR,8,2,1,41,95,Tank Man,120,8WR,2,-1,-87.0,14
+117,160,John Metchie,WR,9,0,1,61,138,Madison Soss Garden Boys,121,9WR,1,0,-87.0,14
+118,154,Nathaniel Dell,WR,9,0,1,61,138,Flock Bills,122,9WR,1,0,-87.0,12
+119,63,Zach Charbonnet,RB,8,1,2,40,120,Ravens Triple,123,8RB,1,1,-86.0,12
+120,142,DJ Chark Jr.,WR,8,2,2,41,95,Sweet Prince,124,8WR,2,0,-86.0,9
+121,9,Kirk Cousins,QB,5,2,1,10,95,Goodbye Dizzo,125,5QB,2,-1,-87.0,10
+122,161,Rashod Bateman,WR,9,0,1,61,138,Ravens Triple,126,9WR,1,0,-87.0,13
+123,93,Greg Dulcich,TE,7,0,1,16,138,Sweet Prince,127,7TE,1,0,-87.0,10
+124,54,Jerick McKinnon,RB,7,2,1,35,95,For Chubb🙏🏽,128,7RB,2,-1,-88.0,8
+125,134,Nico Collins,WR,8,2,1,41,95,Cowboys Triple,129,8WR,2,-1,-89.0,8
+126,86,Dalton Schultz,TE,6,2,2,12,95,Sweet Prince,130,6TE,2,0,-89.0,11
+127,143,Darnell Mooney,WR,8,2,2,41,95,Sweet Prince,131,8WR,2,0,-89.0,12
+128,13,Geno Smith,QB,5,1,1,14,120,Flock Bills,133,5QB,1,0,-89.0,13
+129,162,Jameson Williams,WR,9,0,2,61,138,Sweet Prince,134,9WR,1,1,-88.0,13
+130,152,Adam Thielen,WR,9,1,1,55,120,Team Dizzo,135,9WR,1,0,-88.0,10
+131,149,Michael Gallup,WR,9,1,1,55,120,Goodbye Dizzo,136,9WR,1,0,-88.0,11
+132,151,Kadarius Toney,WR,9,1,1,55,120,Ravens Triple,137,9WR,1,0,-88.0,14
+133,18,Jared Goff,QB,5,0,1,18,138,Sweet Prince,138,5QB,1,0,-88.0,14
+134,155,Romeo Doubs,WR,9,0,1,61,138,For Chubb🙏🏽,139,9WR,1,0,-88.0,9
+135,59,Ezekiel Elliott,RB,8,1,1,40,120,Cowboys Triple,140,8RB,1,0,-88.0,9
+136,87,Tyler Higbee,TE,6,2,1,12,95,YSL🐍,141,6TE,2,-1,-89.0,9
+137,62,Devin Singletary,RB,8,1,1,40,120,Rams Double,142,8RB,1,0,-89.0,8
+138,89,Dalton Kincaid,TE,7,1,1,14,120,Flock Bills,143,7TE,1,0,-89.0,14
+139,61,Elijah Mitchell,RB,8,1,1,40,120,Heart Grit and Effort,144,8RB,1,0,-89.0,14
+140,163,Allen Lazard,WR,9,0,1,61,138,Team Dizzo,145,9WR,1,0,-89.0,11
+141,55,Raheem Mostert,RB,7,2,1,35,95,For Chubb🙏🏽,149,7RB,2,-1,-90.0,10
+142,148,Tyler Boyd,WR,9,1,1,55,120,Cowboys Triple,150,9WR,1,0,-90.0,10
+143,15,Russell Wilson,QB,5,1,1,14,120,Rams Double,152,5QB,1,0,-90.0,9
+144,64,Tyler Allgeier,RB,8,1,1,40,120,Team Dizzo,154,8RB,1,0,-90.0,12
+145,67,Gus Edwards,RB,8,0,1,46,138,Goodbye Dizzo,155,8RB,1,0,-90.0,12
+146,153,K.J. Osborn,WR,9,1,1,55,120,YSL🐍,158,9WR,1,0,-90.0,10
+147,158,Hunter Renfrow,WR,9,0,1,61,138,Goodbye Dizzo,161,9WR,1,0,-90.0,13
+148,60,Jaylen Warren,RB,8,1,1,40,120,For Chubb🙏🏽,162,8RB,1,0,-90.0,11
+149,88,Chigoziem Okonkwo,TE,7,1,1,14,120,Cowboys Triple,163,7TE,1,0,-90.0,11
+150,165,Zay Jones,WR,9,0,1,61,138,YSL🐍,164,9WR,1,0,-90.0,11
+151,92,Taysom Hill,TE,7,0,1,16,138,Rams Double,165,7TE,1,0,-90.0,10
+152,164,Curtis Samuel,WR,9,0,1,61,138,Team Dizzo,166,9WR,1,0,-90.0,13
+153,159,Chase Claypool,WR,9,0,1,61,138,Goodbye Dizzo,167,9WR,1,0,-90.0,14
+154,156,Kendrick Bourne,WR,9,0,1,61,138,For Chubb🙏🏽,168,9WR,1,0,-90.0,12
+155,17,Matthew Stafford,QB,5,0,1,18,138,Cowboys Triple,169,5QB,1,0,-90.0,12
+156,166,Marquez Valdes-Scantling,WR,9,0,1,61,138,YSL🐍,170,9WR,1,0,-90.0,12
+157,150,Parris Campbell,WR,9,1,1,55,120,Rams Double,171,9WR,1,0,-90.0,11
+158,73,Cordarrelle Patterson,RB,8,0,1,46,138,Team Dizzo,172,8RB,1,0,-90.0,14
+159,66,Damien Harris,RB,8,0,1,46,138,For Chubb🙏🏽,173,8RB,1,0,-90.0,13
+160,65,Kenneth Gainwell,RB,8,0,1,46,138,Cowboys Triple,174,8RB,1,0,-90.0,13
+161,74,Tank Bigsby,RB,8,0,1,46,138,YSL🐍,175,8RB,1,0,-90.0,13
+162,68,Roschon Johnson,RB,8,0,1,46,138,Rams Double,176,8RB,1,0,-90.0,12
+163,157,Isaiah Hodgins,WR,9,0,1,61,138,For Chubb🙏🏽,177,9WR,1,0,-90.0,14
+164,19,Kenny Pickett,QB,5,0,1,18,138,YSL🐍,178,5QB,1,0,-90.0,14
+165,69,D'Onta Foreman,RB,8,0,1,46,138,Rams Double,179,8RB,1,0,-90.0,13
+166,70,Kyren Williams,RB,8,0,1,46,138,Rams Double,180,8RB,1,0,-90.0,14
