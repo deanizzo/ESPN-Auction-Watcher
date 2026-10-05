@@ -20,8 +20,9 @@ import requests
 STREAM_URL = "http://localhost:3789/stream"
 
 # --- Discord webhook config -------------------------------------------------
+# Add Discord Webook Here
 # Server Settings -> Integrations -> Webhooks -> New Webhook -> Copy URL
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1540819156927123516/aXP9qH7jsX1-9FraDyHcgQwoEmAxqh-LDTSU66BzuIXyKlX3NAw0UsPLUMQBXeH8E4jF"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/..."
 
 # Fire-and-forget executor so a slow/failed Discord POST never blocks the
 # SSE loop that's reading live draft events.
